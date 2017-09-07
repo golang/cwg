@@ -1,2 +1,2 @@
-# cowg
-Community Outreach Working Group
+# cwg
+Community outreach Working Group
